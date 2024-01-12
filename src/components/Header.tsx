@@ -23,6 +23,10 @@ const Header = () => {
                 >
                      ConnectAI-E
                 </a>
+                {` `}
+                |
+                {` `}
+                Error? text frzrfq
             </p>
         </header>
     );
