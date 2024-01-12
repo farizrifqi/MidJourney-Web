@@ -1,12 +1,13 @@
 import Logo from '@/components/icons/Logo';
 import ThemeToggle from '@/components/ThemeToggle';
 import {GITHUB_ORG_URL} from '@/utils/constants';
+import MJAnimated from './icons/MJAnimated';
 
 const Header = () => {
     return (
         <header>
             <div className="fb">
-                <Logo />
+                <MJAnimated />
                 <ThemeToggle />
             </div>
             <div className="fi mt-2">
